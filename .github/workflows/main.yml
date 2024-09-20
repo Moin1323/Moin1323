@@ -20,8 +20,8 @@ jobs:
       # Step to configure Git
       - name: Configure Git
         run: |
-          git config --global user.name "Muizzkarim10"
-          git config --global user.email "muizzkarim10@gmail.com"
+          git config --global user.name "Moin1323"
+          git config --global user.email "mueenaly.official@gmail.com"
 
       # Step to generate the snake game from GitHub user contributions graph
       - name: Generate github-contribution-grid-snake.svg
