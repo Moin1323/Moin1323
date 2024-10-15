@@ -19,8 +19,8 @@ jobs:
       # Set up Git
       - name: Set up Git
         run: |
-          git config --global user.name "Muizz Karim"
-          git config --global user.email "your_email@example.com"  # Use your GitHub email
+          git config --global user.name "muizzkarim10"
+          git config --global user.email "muizzkarim10@example.com"
 
       # Commit changes
       - name: Commit changes
