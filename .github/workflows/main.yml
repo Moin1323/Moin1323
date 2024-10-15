@@ -20,7 +20,7 @@ jobs:
       - name: Set up Git
         run: |
           git config --global user.name "muizzkarim10"
-          git config --global user.email "muizzkarim10@example.com"
+          git config --global user.email "muizzkarim10@gmail.com"
 
       # Commit changes
       - name: Commit changes
