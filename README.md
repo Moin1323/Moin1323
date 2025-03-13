@@ -2,9 +2,6 @@
 
 </br>
 
-Memory updated
-Here's the updated GitHub README tailored for you, Moin Ali:
-
 Hi, I'm Moin Ali! 👋
 Welcome to my GitHub profile!
 
